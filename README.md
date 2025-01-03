@@ -1,6 +1,6 @@
 # QuickPass 🔐
 
-A simple and secure web-based random password generator that helps you create strong and unique passwords instantly.
+QuickPass is a simple and secure random password generator designed to help you create strong and unique passwords instantly. Whether you're securing your online accounts or testing applications, QuickPass makes password generation quick and easy.
 
 👉 **[Live Demo](https://sr2006na.github.io/QuickPass/)** 👈
 
@@ -28,6 +28,12 @@ A simple and secure web-based random password generator that helps you create st
    Paste the password wherever you need it!
 
 ---
+## Screenshots
+
+[![Screenshot-20250103-110106.jpg](https://i.postimg.cc/zGLZtvdK/Screenshot-20250103-110106.jpg)](https://postimg.cc/rDLPzV2w)
+
+---
+
 
 ## Technologies Used 💻
 - **HTML**: Structure of the web page.
