@@ -16,7 +16,7 @@ QuickPass is a simple and secure random password generator designed to help you 
 ## Live Demo
 
 Check out the live demo of QuickPass:  
-👉 [https://sr2006na.github.io/QuickPass/](https://i.postimg.cc/zGLZtvdK/Screenshot-20250103-110106.jpg)]
+👉 [https://sr2006na.github.io/QuickPass/]
 
 ---
 
